@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Meetup Komunitas Vue.js",
+      "description": "Meetup Komunitas Vue.js",
+      "date": "2016-11-30"
+    },
+    {
+      "id": 2,
+      "name": "Kunjungan Ke Microsoft Indonesia",
+      "description": "Kunjungan Ke Microsoft Indonesia",
+      "date": "2016-12-01"
+    },
+    {
+      "id": 3,
+      "name": "Bertemu Bill Gates",
+      "description": "Bertemu Bill Gates",
+      "date": "2016-12-02"
+    }
+  ]
+}
