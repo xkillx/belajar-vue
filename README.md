@@ -1,6 +1,6 @@
 # Belajar Vue Js
 Iseng-iseng belajar vuejs, karena lagi gk ada kerjaan di kantor
-![alt tag](https://i.imgsafe.org/ea0dcbf24f.jpg)
+![alt tag](https://github.com/xkillx/belajar-vue/raw/master/vue2.jpg)
 
 ## Install
 Pastikan node.js sudah terinstall.
